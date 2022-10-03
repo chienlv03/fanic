@@ -1,0 +1,32 @@
+:root {
+    --boder-color: #d7d7d7;
+    --text-color: #202020;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: Jost, sans-serif;
+    color: #696969;
+}
+
+.js-display-block {
+    display: block;
+}
+
+.js-display-flex {
+    display: flex;
+}
+
+@keyframes move-right {
+    from {
+        
+    }
+}
